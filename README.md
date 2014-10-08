@@ -11,7 +11,7 @@ Using npm:
 
 ## Usage
 
-Simple just like: `git commit -m "`whatthecommit`"`.
+Simple just like: ``git commit -m "`whatthecommit`"``.
 
 ## License
 
