@@ -11,6 +11,8 @@ Using npm:
 
 ## Usage
 
+**Warning!** I strongly advise you to use relevant and meaningful commit messages. This program is not intended to do so, it's purely for fun.
+
 Simple just like: ``git commit -m "`whatthecommit`"``.
 
 ## License
