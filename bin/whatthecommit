@@ -11,6 +11,7 @@ function print(message) {
 loadCommitMessages(function (err, message) {
   if (err) {
     console.error(err);
+    process.exit(1);
     return;
   }
 
