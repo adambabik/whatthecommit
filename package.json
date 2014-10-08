@@ -1,0 +1,16 @@
+{
+  "name": "whatthecommit",
+  "version": "0.1.0",
+  "description": "Get random commit message from http://whatthecommit.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/whatthecommit",
+  "keywords": [
+    "git",
+    "commit"
+  ],
+  "author": "Adam Babik",
+  "license": "MIT"
+}
